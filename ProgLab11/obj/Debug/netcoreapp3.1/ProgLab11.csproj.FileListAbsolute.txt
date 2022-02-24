@@ -1,0 +1,11 @@
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\bin\Debug\netcoreapp3.1\ProgLab11.exe
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\bin\Debug\netcoreapp3.1\ProgLab11.deps.json
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\bin\Debug\netcoreapp3.1\ProgLab11.runtimeconfig.json
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\bin\Debug\netcoreapp3.1\ProgLab11.runtimeconfig.dev.json
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\bin\Debug\netcoreapp3.1\ProgLab11.dll
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\bin\Debug\netcoreapp3.1\ProgLab11.pdb
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\obj\Debug\netcoreapp3.1\ProgLab11.csprojAssemblyReference.cache
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\obj\Debug\netcoreapp3.1\ProgLab11.AssemblyInfoInputs.cache
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\obj\Debug\netcoreapp3.1\ProgLab11.AssemblyInfo.cs
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\obj\Debug\netcoreapp3.1\ProgLab11.dll
+C:\Users\rus_u\source\repos\ProgLab11\ProgLab11\obj\Debug\netcoreapp3.1\ProgLab11.pdb
